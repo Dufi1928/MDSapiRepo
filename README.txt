@@ -25,6 +25,8 @@ Allow clients to book a room
 ##################################################################################################################
 Installation
 ##################################################################################################################
+1. Clone the repository on your machine:
+    git clone https://github.com/Dufi1928/MDSapiRepo.git
 
 1. Install the necessary dependencies:
     npm install
